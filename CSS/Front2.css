@@ -1,0 +1,146 @@
+body{
+background-color: rgba(112,150,255,250);
+
+}
+.page{
+
+	padding-top:40px;
+}
+.SS{
+	margin-left: 80px;
+}
+
+.SS1{
+	margin-left: 25px;
+}
+
+.SS2{
+	margin-left: 45px;
+}
+
+.SS3{
+	margin-left: 65px;
+}
+
+.SS4{
+	margin-left: 125px;
+}
+
+.SS5{
+	margin-left: 115px;
+}
+.SSs6{
+	margin-left: 55px;
+}
+
+.SS6{
+	margin-left: 40px;
+}
+.SSs7{
+	margin-left: 45px;
+}
+.SS7{
+	margin-left: 25px;
+}
+
+.SS8{
+	margin-left: 88px;
+}
+
+.SS9{
+	margin-left: 45px;
+}
+
+
+.SS10{
+	margin-left: 80px;
+}
+
+
+.SS11{
+	margin-left: 120px;
+	}
+
+
+
+.SS12{
+	margin-left: 75px;
+
+}
+.TR{
+	position: relative;
+	left: 170px;
+	width: 350px;
+	height: 40px;
+}
+
+.SS13{
+	margin-left: 70px;
+
+}
+.Tit{
+	width: 200px;
+	left:0px;
+	padding-top: 40px;
+	right: 40px;
+}
+.page p{
+	padding-top: 50px;
+	font-family: Lato;
+	font-size: 26px;
+	color: rgba(191,200,245,211);
+	line-height: 25px;
+	text-indent: left;
+}
+.BTNX{
+	position: relative;
+	width: 390px;
+	left: 220px;
+}
+.page small{
+	color: #000;
+	font-size: 18px;
+	font-family: Open-sans;
+	font-weight: ;
+
+}
+.DOBX{
+	width: 60px;
+}
+.Fot{
+	text-align: center;
+	background-size: cover;
+	padding-top: 10px;
+	background-color:transparent;
+	height: 80px;
+
+}
+
+.Nm{
+	width: 800px;
+}
+
+.In{
+
+	line-height: 50px;
+	text-indent: left;
+}
+.FM{
+	width: 900px;
+	left: 230px;
+	padding-top: 70px;
+
+	}
+.Fot h4{
+	font-family: Lato;
+
+}
+.imgx img {
+	top:-200px lz;
+}
+.lz img{
+	background-attachment: fixed;
+	padding-top: -20px;
+	width: 1700px;
+	height: 220px;
+}

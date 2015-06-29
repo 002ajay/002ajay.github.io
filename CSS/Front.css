@@ -1,0 +1,35 @@
+body{
+
+
+}
+.pagex{
+
+	padding-top:80px;
+}
+.pagex p{
+	padding-top: 50px;
+	font-family: Lato;
+	font-size: 26px;
+	color: rgba(191,200,245,211);
+	line-height: 25px;
+	text-indent: left;
+}
+.pagex h4{
+	color: #000;
+	font-size: 18px;
+	font-family: Open-sans;
+	font-weight: ;
+
+}
+.Fot{
+	text-align: center;
+	background-size: cover;
+	padding-top: 22px;
+	background-color:transparent;
+	height: 80px;
+
+}
+.Fot h4{
+	font-family: Lato;
+
+}
